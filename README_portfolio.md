@@ -1,0 +1,1 @@
+Developed a hybrid transformer and sentiment analysis model using NumPy and PyTorch, my model used specialized encoding scheme to interpret market behavior and news headlines for improved predictions.
